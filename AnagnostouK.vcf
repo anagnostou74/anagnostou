@@ -1,11 +1,14 @@
 BEGIN:VCARD
-VERSION:2.1
-N;CHARSET=UTF-8:Αναγνώστου;Κωνσταντίνος;;;
-FN;CHARSET=UTF-8:Κωνσταντίνος Αναγνώστου
-ORG;CHARSET=UTF-8:Βουλή των Ελλήνων;Τμήμα Τεχνικής Μέριμνας και Υποστήριξης Εξοπλισμού
-TITLE;CHARSET=UTF-8:Προϊστάμενος
-TEL;WORK;VOICE:2103855128
-TEL;CELL;VOICE:6975994614
-EMAIL;INTERNET;WORK:k.anagnostou@parliament.gr
-ADR;WORK;CHARSET=UTF-8:;;Σουρή 5;Αθήνα;;105 57;Ελλάδα
+VERSION:3.0
+FN;CHARSET=UTF-8:ΞΟ‰Ξ½ΟƒΟ„Ξ±Ξ½Ο„Ξ―Ξ½ΞΏΟ‚ Ξ‘Ξ½Ξ±Ξ³Ξ½ΟΟƒΟ„ΞΏΟ…
+N;CHARSET=UTF-8:Ξ‘Ξ½Ξ±Ξ³Ξ½ΟΟƒΟ„ΞΏΟ…;ΞΟ‰Ξ½ΟƒΟ„Ξ±Ξ½Ο„Ξ―Ξ½ΞΏΟ‚;;;
+ORG;CHARSET=UTF-8:Ξ’ΞΏΟ…Ξ»Ξ® Ο„Ο‰Ξ½ Ξ•Ξ»Ξ»Ξ®Ξ½Ο‰Ξ½;Ξ¤ΞΌΞ®ΞΌΞ± Ξ¤ΞµΟ‡Ξ½ΞΉΞΊΞ®Ο‚ Ξ¥Ο€ΞΏΟƒΟ„Ξ®ΟΞΉΞΎΞ·Ο‚ ΞΊΞ±ΞΉ ΞΞ­ΟΞΉΞΌΞ½Ξ±Ο‚ Ξ•ΞΎΞΏΟ€Ξ»ΞΉΟƒΞΌΞΏΟ
+TITLE;CHARSET=UTF-8:Ξ ΟΞΏΟΟƒΟ„Ξ¬ΞΌΞµΞ½ΞΏΟ‚
+EMAIL;TYPE=INTERNET,WORK:k.anagnostou@parliament.gr
+TEL;TYPE=WORK,VOICE:2103855128
+TEL;TYPE=CELL,VOICE:6975994614
+ADR;TYPE=WORK;CHARSET=UTF-8:;;Ξ£ΞΏΟ…ΟΞ® 5;Ξ‘ΞΈΞ®Ξ½Ξ±;;105 57;Ξ•Ξ»Ξ»Ξ¬Ξ΄Ξ±
+URL;TYPE=WORK:http://hellenicparliament.gr
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/costas-anagnostou/
+NOTE;CHARSET=UTF-8:Ξ¤ΞΌΞ®ΞΌΞ± Ξ¤ΞµΟ‡Ξ½ΞΉΞΊΞ®Ο‚ Ξ¥Ο€ΞΏΟƒΟ„Ξ®ΟΞΉΞΎΞ·Ο‚ ΞΊΞ±ΞΉ ΞΞ­ΟΞΉΞΌΞ½Ξ±Ο‚ Ξ•ΞΎΞΏΟ€Ξ»ΞΉΟƒΞΌΞΏΟ
 END:VCARD
