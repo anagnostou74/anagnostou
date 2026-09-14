@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=UTF-8:Αναγνώστου;Κωνσταντίνος;;;
+FN;CHARSET=UTF-8:Κωνσταντίνος Αναγνώστου
+ORG;CHARSET=UTF-8:Βουλή των Ελλήνων;Τμήμα Τεχνικής Μέριμνας και Υποστήριξης Εξοπλισμού
+TITLE;CHARSET=UTF-8:Προϊστάμενος
+TEL;WORK;VOICE:2103855128
+TEL;CELL;VOICE:6975994614
+EMAIL;INTERNET;WORK:k.anagnostou@parliament.gr
+ADR;WORK;CHARSET=UTF-8:;;Σουρή 5;Αθήνα;;105 57;Ελλάδα
+END:VCARD
